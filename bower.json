@@ -13,7 +13,7 @@
   "dependencies": {
     "patternfly": "https://github.com/patternfly/patternfly.git#v1.3.0",
     "patternfly-angular": "https://github.com/patternfly/angular-patternfly.git#0.0.6",
-    "angular-bootstrap": "https://github.com/angular-ui/bootstrap.git#0.13.0"
+    "angular-bootstrap": "0.13.0"
   },
   "resolutions": {
     "angular-sanitize": "v1.3.8",
