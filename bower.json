@@ -4,6 +4,7 @@
   "authors": [
     "Red Hat"
   ],
+  "description": "Angular extension of the PatternFly project.",
   "ignore": [
     "node_modules",
     "lib"
