@@ -14,13 +14,6 @@
   "devDependencies": {
     "grunt": "0.4.4",
     "grunt-bump": "0.0.13",
-    "grunt-connect-proxy": "0.1.10",
-    "grunt-contrib-clean": "0.5.0",
-    "grunt-contrib-connect": "0.7.1",
-    "grunt-contrib-copy": "0.5.0",
-    "grunt-contrib-jshint": "0.10.0",
-    "grunt-contrib-watch": "0.6.1",
-    "grunt-lintspaces": "0.7.0",
     "matchdep": "0.3.0"
   }
 }
