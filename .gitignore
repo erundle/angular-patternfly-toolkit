@@ -3,7 +3,7 @@
 #
 .tmp
 dist
-bower_components
+lib
 
 #
 # Node.js

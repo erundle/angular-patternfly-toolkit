@@ -33,8 +33,7 @@ module.exports = function (grunt) {
 		}
 
 		// Bump the appropriate version piece, build the dist folder, and commit it all up
-		//'bump-commit'
-		grunt.task.run('bump-only:' + bump);
+		grunt.task.run('bump-only:' + bump, 'bump-commit');
 	});
 
 };
